@@ -1,0 +1,17 @@
+.div-1 {
+  height: 50px;
+  border: 1px dashed black;
+  margin-bottom: 10px;
+}
+
+.div-2 {
+  height: 200px;
+  border: 1px dashed black;
+}
+
+.div-3 {
+  height: 50px;
+  width: 400px;
+  border: 1px dotted red;
+  margin: 0 auto;
+}
