@@ -8,7 +8,7 @@ It is often the first CSS rule in an external stylesheet. */
 .box-1 {
   height: 50px;
   border: 1px dashed black;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 /*The margin property also lets you center content: margin: 0 auto; The 0 sets the top and bottom margins to 0 pixels.
